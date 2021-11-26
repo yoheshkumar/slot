@@ -1,4 +1,4 @@
-# Experiment_Basic_HTML_Tag
+# Experiment_Time_Table
 
 ## AIM
 To Write a html webpage page to display your timetable.
